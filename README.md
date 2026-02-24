@@ -405,7 +405,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Your Name - Resume Project Showcase
+Eyosiyas Gossiso 
 
 ## 🎓 Use Case
 
