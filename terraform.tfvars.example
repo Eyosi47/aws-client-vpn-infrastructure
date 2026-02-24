@@ -1,0 +1,16 @@
+# AWS Client VPN Configuration
+# Copy this file to terraform.tfvars and customize for your environment
+
+# AWS Region
+aws_region = "us-east-1"
+
+# Project Configuration
+project_name = "aws-client-vpn"
+environment  = "dev"
+
+# Network Configuration
+vpc_cidr        = "10.0.0.0/16"
+client_vpn_cidr = "172.16.0.0/22"  # Supports up to 1024 concurrent clients
+
+# Test Endpoints
+endpoint_count = 50  # Number of test EC2 instances to create
