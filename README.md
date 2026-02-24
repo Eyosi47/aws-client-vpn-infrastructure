@@ -405,7 +405,10 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-Eyosiyas Gossiso 
+Eyosiyas Yilma 
+GitHub: @Eyosi47
+LinkedIn: https://www.linkedin.com/in/eyosiyas-yilma-81923934b
+Email: eyosiyasyilma99@gmail.com
 
 ## 🎓 Use Case
 
