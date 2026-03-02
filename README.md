@@ -390,18 +390,7 @@ aws ec2 describe-security-groups \
 - [Terraform AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 - [OpenVPN Documentation](https://openvpn.net/community-resources/)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👤 Author
 
@@ -410,12 +399,5 @@ GitHub: @Eyosi47
 LinkedIn: https://www.linkedin.com/in/eyosiyas-yilma-81923934b
 Email: eyosiyasyilma99@gmail.com
 
-## 🎓 Use Case
 
-This infrastructure demonstrates:
-- ✅ Enterprise-grade VPN configuration
-- ✅ Infrastructure as Code best practices
-- ✅ AWS security and networking expertise
-- ✅ Monitoring and validation automation
-- ✅ Production-ready deployment procedures
 
